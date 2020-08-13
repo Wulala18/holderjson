@@ -1,0 +1,104 @@
+{
+    "tips":[
+    {
+        "id":1,
+        "title": "About Weight Loss",
+        "description": "If you are reading this, it means that you concern about losing weight.Our application offers you a unique training methods of different workouts. Cardio full body and trouble zone oriented workouts will help you burn more calories in less time. To maintain a stable weight loss, take a closer look at your eating habits and make healthy choices. In this app, you will discover the important info about working out and everything connected with healthy living."
+     
+    },
+    {
+        "id":2,
+        "title": "Motivation",
+        "description": "In order to achieve your weight loss goals faster, maintain your motivation hign. There are some adivces which will increase your level motivation. First, stick to the plan. It makes your workout more challeging when you follow a plan, gradually increase the workout intensity and review your stats and progress. Second, get an audio instructuion. It will help you to workout correctly and will stay motivated. Last but no least, manage your workout schedule. Develop a schedule, so that you can workout based on the scheduled."
+       
+    },
+    {
+        "id":3,
+        "title": "Training Tips",
+        "description": "For new presentations, you’ll spend at least 10 hours outlining, researching, and creating your presentation for every seminar hour. Thus, a new eight-hour seminar will take 80 to 100 hours to create. So prepare it at least one month in advance, and practice it several times before presenting it. Always plan to speak for less time than you anticipate, so you can leave room in your program for spontaneous stories, unanticipated conversations, and unexpected questions."
+       
+    },
+    {
+        "id":4,
+        "title": "Water and Food",
+        "description": "Hydrate throughtout your day, not just after a workout.Get in the habit of sipping water continuously during the day. If you start your workout dehydrated, you won't get the maximum out of your workout, as water helps your body to exercise more efficiently. General guidelines are to drink 17 to 20 ounces of water 2 to 3 hours before exercising, another 8 ounces during your warm-up, 7 to 10 ounces every 10 to 20 minutes during exercise, and 8 ounces of water within 30 minutes after exercising."   
+
+    },
+    {
+        "id":5,
+        "title": "WorkOut",
+        "description": "Strength training or crdio? Which is better? Although its a reasonable question, there is no correct answer. Each exercise is different and achieves totally different result. Cardio improves your cardiovascular fitness and it is the main method of burning fat and losing weight. Strength training builds and strengthens your muscles to make you stronger and improve muscle definition. So whether you exercise for health reasons or just to look good, both types of exercise are important."      
+
+    },
+    {
+        "id":6,
+        "title": "Drink to avoid",
+        "description": "The calories that we drink dont make us feel full, so why consume them? Here are a few examples: a fancy coffee drink with milk and whipped cream can contain up to 800 calories, one glass of soda contained about 140 calories . You are now loaded with calories, and you ares till hungry. Additionally, due to the high sugar levels in most of such drinks, you will most likely overeat afterwards. So it it important to watch what you drink."      
+
+    },
+    {
+        "id":7,
+        "title": "Food to avoid",
+        "description": "Try to avoid any over-processed foods-pastry, cheese and meat. Homemade baked goods and regular meat and cheese are fine on occasion, but processed food are packed with sugar and contained a lots of unhealthy ingredients that are harmful for your health. Soda and fancy coffee drinks can contain as many calories as a meal except that they wont fill you up.Most fast food prodcuts are to be avoided too, but we are sure that you know that. So, stay away from processed food and stay healthy."      
+
+    },
+    {
+        "id":8,
+        "title": "Sugar",
+        "description": "Many adults eat much more sugar than necessary, so reducing added sugar intake is a healthful idea for most people. Some people may wish to take it a step further and cut sugar out of their diet entirely. The no-sugar diet has gained popularity as people continue to look for effective ways to live a healthful life or lose weight."      
+
+    },
+    {
+        "id":9,
+        "title": "Salt",
+        "description": "We live in a society that measures and medicates. All the tools and technology and medicines deployed to maintain heart health are a help. However, heart disease remains the No. 1 killer in America. And high blood pressure, or hypertension, is a major contributor. Even so, heart disease is largely preventable, and much of that prevention lies in small steps that can make a big difference; diet is foremost among them. To lower your blood pressure, you need to reduce salt intake."      
+
+    },
+    {
+        "id":10,
+        "title": "Protein",
+        "description": "Protein is an organic compund that is made up of amino acids and is an essential part of any complex living organism. Most cells in out bodies are made up of protein, which we need to grow and to recover. Protein is also an important element of our muscle tissue, hair, immune system and it makes up essential hormones.Because we don’t store amino acids, our bodies make them in two different ways: either from scratch, or by modifying others. Nine amino acids—histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine—known as the essential amino acids, must come from food."      
+
+    },
+    {
+        "id":11,
+        "title": "Good Fats: monounsaturated fats",
+        "description": "From a chemical standpoint, monounsaturated fats are simply fat molecules that have one unsaturated carbon bond in the molecule, this is also called a double bond. Oils that contain monounsaturated fats are typically liquid at room temperature but start to turn solid when chilled. Olive oil is an example of a type of oil that contains monounsaturated fats."      
+
+    },
+    {
+        "id":12,
+        "title": "Good Fats: polyunsaturated",
+        "description": "Polyunsatured fats are essential fats, meaning that our bodies ned them to function properly. Among their primary functions are building cell membranes and the covering of nerves. Polyunsaturated fats are necessary for muscle movement and blood clotting. Polyunsaturated fats can help reduce bad cholesterol levels in your blood which can lower your risk of heart disease and stroke. They also provide nutrients to help develop and maintain your body’s cells."      
+
+    },
+    {
+        "id":13,
+        "title": "Vitamin",
+        "description": "Vitamins and minerals are essential nutrients because they perform hundreds of roles in the body. There is a fine line between getting enough of these nutrients (which is healthy) and getting too much (which can end up harming you). Eating a healthy diet remains the best way to get sufficient amounts of the vitamins and minerals you need. Every day, your body produces skin, muscle, and bone. It churns out rich red blood that carries nutrients and oxygen to remote outposts, and it sends nerve signals skipping along thousands of miles of brain and body pathways."      
+
+    },
+    {
+        "id":14,
+        "title": "Vegetables",
+        "description": "Vegetables are low in fat and calories as well as are contaiend abundant vitamins, minerals, antioxidants and fiber. It is necessary to eat about 5 servings of vegetables daily, preferably a variety of types and colors. In all cases- fresh raw vegetables are the most usefull as they lose a significant amount of their nutrition value in the cooking process. As more, dried and frozen vegetables are a good choice when certain vegetables are out of season."      
+
+    },
+    {
+        "id":15,
+        "title": "Counting Calories",
+        "description": "Some experts believe that correct calorie counting is an important step in reaching healthy weight loss goals. While the process may seem very simple, there are a number of common mistakes that can derail success. Use this list of calorie counting tips to make sure you end up with the right numbers to create weight loss success. Most women end up with a number around 1,200 calories per day to lose weight. Men often end up with a number close to 1,800 calories per day to lose weight."      
+
+    },
+    {
+        "id":16,
+        "title": "Weight loss myths",
+        "description": "There is a lot of advice out there about food and weight loss, but lets take a critical approach. The first myth associated with weigth loss is about eating late in the day. The fact is you can eat any time if you eat healthy and count your calories. Overeating during the day is as likely to cause weight gain as in the evening. Another common myth is that carbs are abd for you. But the true is, you need carbs daily and need to be carefully select your carbs and avoid bad ones."      
+
+    }
+
+  
+    ]
+
+ }
+    
