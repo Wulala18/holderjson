@@ -111,91 +111,113 @@
     },
     {
         "id":112,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Garlic-Ginger Chicken Thighs",
+        "calories": "346g",
+        "fat": "23.5g",
+        "protein": "27g",
+        "sugar": "0g",
+        "ingredients": "2 pounds skin-on, boneless chicken thighs, 1 cup thinly sliced red onion, 2 tablespoons minced garlic, 2 tablespoons minced peeled ginger, 1/4 cup soy sauce, 1/4 cup fresh tangerine or orange juice",
+        "instructions": "Bring 3 cups of water to a boil in a medium saucepan over high heat, covered. Uncover and slowly whisk in the grits, 1 teaspoon salt and 1/2 teaspoon pepper. Reduce the heat to medium low and cook, stirring occasionally, until thickened, about 5 minutes. Stir in the Parmesan and 1 tablespoon butter. Remove from the heat and season with salt and pepper. Cover to keep warm."
     },
     {
         "id":113,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Lemon-Garlic Shrimp and Grits",
+        "calories": "367g",
+        "fat": "12g",
+        "protein": "34g",
+        "sugar": "0g",
+        "ingredients": "3/4 cup instant grits, 1/4 cup grated Parmesan cheese, 3 tablespoons unsalted butter, 1 1/4 pounds medium shrimp, peeled and deveined, tails intact, 2 large cloves garlic, minced, Juice of 1/2 lemon, plus wedges for serving",
+        "instructions": "Combine the chicken, onion, garlic, ginger, soy sauce, juice and 1 teaspoon pepper in a large resealable plastic bag. Seal and shake to coat the chicken with the marinade. Refrigerate 1 hour or overnight. Preheat a grill to medium high and oil the grate. Grill the chicken skin-side down until marked, 5 to 6 minutes. Flip and continue to grill until cooked through, about 5 more minutes. Let rest 5 minutes before serving.Meanwhile, season the shrimp with salt and pepper. Melt the remaining 2 tablespoons butter in a large skillet over medium-high heat. Add the shrimp, garlic and cayenne, if using, and cook, tossing, until the shrimp are pink, 3 to 4 minutes. Remove from the heat and add 2 tablespoons water, the lemon juice and parsley; stir to coat the shrimp with the sauce and season with salt and pepper. Divide the grits among shallow bowls and top with the shrimp and sauce. Serve with lemon wedges."
     },
     {
         "id":114,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Sheet Pan Chicken Fajitas",
+        "calories": "470g",
+        "fat": "17g",
+        "protein": "44g",
+        "sugar": "6g",
+        "ingredients": "1 tablespoon chili powder, 1 pound baby bell peppers (12 to 15 peppers), halved, stemmed and seeded, 1 large yellow onion, halved and thinly sliced, 2 tablespoons extra-virgin olive oil, 1 1/2 pounds boneless, skinless chicken breast, Juice of 1 lime, plus lime wedges, for serving, 8 fajita-size flour tortillas, warmed",
+        "instructions": "Preheat the broiler to high. Line a rimmed baking sheet with foil. Combine the chili powder, 2 teaspoons salt and 1 teaspoon pepper in a small bowl. Put the peppers and onions on the prepared baking sheet, drizzle with 1 tablespoon of the oil and season with half the chili powder mixture. Broil until softened and starting to char, about 10 minutes. Meanwhile, cut the chicken into 1/4-inch-thick slices and toss in a large bowl with the remaining chile powder mixture and 1 tablespoon oil. After the peppers are softened and starting to char, about 10 minutes, scatter the chicken on top of the peppers and onions and return the baking sheet to the broiler until the chicken is cooked through and starting to brown, about 5 minutes more. Drizzle with the lime juice. Serve with the warmed tortillas, Monterey Jack cheese, guacamole, hot sauce, salsa, sour cream and lime wedges."
     },
     {
         "id":115,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Thai Curry Veggie Noodles with Chicken",
+        "calories": "470g",
+        "fat":"17g",
+        "protein":"44g",
+        "sugar":"6g",
+        "ingredients": "1 tablespoon chili powder, 1 pound baby bell peppers (12 to 15 peppers), halved, stemmed and seeded, 1 large yellow onion, halved and thinly sliced, 2 tablespoons extra-virgin olive oil, 1 1/2 pounds boneless, skinless chicken breast, Juice of 1 lime, plus lime wedges, for serving, 8 fajita-size flour tortillas, warmed",
+        "instructions": "Preheat the broiler to high. Line a rimmed baking sheet with foil. Combine the chili powder, 2 teaspoons salt and 1 teaspoon pepper in a small bowl. Put the peppers and onions on the prepared baking sheet, drizzle with 1 tablespoon of the oil and season with half the chili powder mixture. Broil until softened and starting to char, about 10 minutes. Meanwhile, cut the chicken into 1/4-inch-thick slices and toss in a large bowl with the remaining chile powder mixture and 1 tablespoon oil. After the peppers are softened and starting to char, about 10 minutes, scatter the chicken on top of the peppers and onions and return the baking sheet to the broiler until the chicken is cooked through and starting to brown, about 5 minutes more. Drizzle with the lime juice. Serve with the warmed tortillas, Monterey Jack cheese, guacamole, hot sauce, salsa, sour cream and lime wedges."
     },
     {
         "id":116,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Middle Eastern Chicken Burgers",
+        "calories": "435g",
+        "fat":"7g",
+        "protein":"32g",
+        "sugar":"6g",
+        "ingredients": "2 teaspoons extra-virgin olive oil, 1 large onion, 1 pound ground lean chicken, finely chopped, 1 small red onion, sliced, 1 English cucumber, thinly sliced, 1/4 teaspoon red pepper flakes, 2 tablespoons extra-virgin olive oil, 2 cloves garlic, minced, skinless chicken breast, Juice of 1 lime, plus lime wedges, for serving, 1 tomato, thinly sliced",
+        "instructions": "Heat the olive oil in a skillet over medium heat, add the onion, cinnamon, coriander, pepper flakes, 1/2 teaspoon kosher salt and season with pepper. Cook until onions are tender, about 5 minutes. Stir in the garlic and parsley and cook until garlic is fragrant, about 1 more minute. Transfer to a large bowl and let cool slightly. Stir in the chicken and yogurt until the onion are evenly mixed. Season with 1 teaspoon kosher salt and some pepper. Shape into 4 1/2-inch thick patties. Cook in a nonstick skillet over medium heat until browned and cooked through, about 5 minutes on each side, or until an instant-read thermometer inserted into the sides of the burgers registers between 165 and 170 degrees F. Brush burgers with the pomegranate molasses and set aside to rest for 5 minutes. Serve on toasted buns with fixings."   
     },
     {
         "id":117,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Ribbony Shrimp and Pasta Scampi",
+        "calories": "368g",
+        "fat":"9g",
+        "protein":"26g",
+        "sugar":"6g",
+        "ingredients": "1 cup chopped hearts of romaine, ¼ cup chopped fresh chives, 2 large tomatoes, cut into wedges, 1/4 fresh jalapeño , stemmed and seeded, 1 large red bell pepper, cut into eighths",
+        "instructions": "Working in this order, process lettuce, chives, tomatoes, jalapeno, bell pepper, celery and carrot through a juicer according to the manufacturer's directions. Fill 2 glasses with ice, if desired, and pour the juice into the glasses. Serve immediately."
     },
     {
         "id":118,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Tomato-Vegetable Juice",
+        "calories": "46g",
+         "fat":"1g",
+        "protein":"1g",
+        "sugar":"7g",
+        "ingredients": "2 teaspoons extra-virgin olive oil, 1 large onion, 1 pound ground lean chicken, finely chopped, 1 small red onion, sliced, 1 English cucumber, thinly sliced, 1/4 teaspoon red pepper flakes, 2 tablespoons extra-virgin olive oil, 2 cloves garlic, minced, skinless chicken breast, Juice of 1 lime, plus lime wedges, for serving, 1 tomato, thinly sliced",
+        "instructions": "Heat the olive oil in a skillet over medium heat, add the onion, cinnamon, coriander, pepper flakes, 1/2 teaspoon kosher salt and season with pepper. Cook until onions are tender, about 5 minutes. Stir in the garlic and parsley and cook until garlic is fragrant, about 1 more minute. Transfer to a large bowl and let cool slightly. Stir in the chicken and yogurt until the onion are evenly mixed. Season with 1 teaspoon kosher salt and some pepper. Shape into 4 1/2-inch thick patties. Cook in a nonstick skillet over medium heat until browned and cooked through, about 5 minutes on each side, or until an instant-read thermometer inserted into the sides of the burgers registers between 165 and 170 degrees F. Brush burgers with the pomegranate molasses and set aside to rest for 5 minutes. Serve on toasted buns with fixings."
     },
     {
         "id":119,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Avocado smoothie",
+        "calories": "435g",
+        "fat":"7g",
+        "protein":"32g",
+        "sugar":"6g",
+        "ingredients": "½ avocado, peeled, stoned and roughly chopped, generous handful kale, washed well, 50g pineapple chunks, 10cm piece cucumber, roughly chopped, 300ml coconut water",
+        "instructions": "Put the avocado, spinach, kale, pineapple and cucumber in the blender. Top up with coconut water, then blitz until smooth."
     },
     {
         "id":120,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Green Smoothie",
+        "calories": "213g",
+        "fat":"2.5g",
+        "protein":"3.5g",
+        "sugar":"29g",
+        "ingredients": "2 ripe medium bananas, 1 ripe pear or apple, peeled if desired, chopped, 2 cups chopped kale leaves, tough stems removed, ½ cup cold orange juice, ½ cup cold water, 12 ice cubes",
+        "instructions": "Place bananas, pear (or apple), kale, orange juice, water, ice cubes and flaxseed in a blender. Pulse a few times, then puree until smooth, scraping down the sides as necessary."
     },
     {
         "id":121,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Bacon and Kimchi Noodle Stir-Fry",
+        "calories": "430g",
+        "fat":"17g",
+        "protein":"17g",
+        "sugar":"7g",
+        "ingredients": "2 bunches broccolini (about 12 ounces), 1 cup kimchi, drained and roughly chopped, plus 2 tablespoons brine, plus finely chopped kimchi for topping, 1 tablespoon toasted sesame oil, 1 tablespoon packed brown sugar, 1 clove garlic, grated, 8 ounces thin dried Chinese egg noodles, 1 tablespoon toasted sesame seeds, 6 slices thick-cut bacon, chopped",
+        "instructions": "Bring a pot of salted water to a boil. Add the broccolini and cook until bright green and crisp-tender, 3 to 5 minutes. Remove with tongs to a colander and run briefly under cool water. (Keep the pot of water boiling.) Meanwhile, stir the kimchi brine, sesame oil, brown sugar, garlic and red pepper flakes in a small bowl. Heat a large nonstick skillet over medium-high heat. Add the vegetable oil and bacon and cook, stirring, until the bacon is crisp, 5 to 7 minutes. Stir in the red onion and cook until browned and softened, about 5 minutes. Stir in the kimchi and cook until softened, about 2 minutes. Add the noodles to the boiling water and cook until al dente, about 3 minutes. Using tongs, transfer the noodles to the skillet (reserve the cooking water); stir until the noodles are well coated in the bacon-onion mixture. Add the broccolini and kimchi sauce to the skillet and toss until combined, about 1 minute. (Add up to 1/2 cup of the reserved cooking water if the pasta is too dry.) Season with salt. Divide among plates; top with the toasted sesame seeds and finely chopped kimchi."
     },
     {
         "id":122,
-        "title": "Vegetable Noodle Soup",
-        "calories": "50g",
-        "fat": "4g",
-        "protein": "5g",
-        "sugar": "4g"
+        "title": "Butternut Squash and Gorgonzola Pizza",
+        "calories": "390g",
+        "fat":"19g",
+        "protein":"14g",
+        "sugar":"3g",
+        "ingredients": "1/3 cup cubed, peeled butternut squash (about 2 1/2 ounces), 1 tablespoon olive oil, 1/4 small red onion, 5 large sage leaves, 1 tablespoon cornmeal, 3/4 pound store-bought whole-wheat pizza dough, at room temperature, 4 ounces gorgonzola cheese (2/3 cup crumbled), 1/4 cup walnut pieces",
+        "instructions": "Preheat the oven to 475 degrees F. Thinly slice each cube of butternut squash and toss in a small bowl with the olive oil. Thinly slice the onion and sage. Sprinkle a work surface with the cornmeal and use a rolling pin and/or your hands to stretch the dough into a 12-inch circle. Spray a baking sheet with cooking spray and place the dough onto it. Crumble the gorgonzola and sprinkle it evenly all over the dough, leaving a 1-inch border for the crust. Scatter the squash and onion on top of the cheese. Sprinkle the sage on top. Bake until the cheese is melted, the squash is softened and the crust is almost browned, about 11 minutes. Scatter the walnuts over the pizza and bake until they are lightly toasted, an additional 2 minutes. Slice the pizza into 8 wedges."
     },
     {
         "id":123,
@@ -209,7 +231,7 @@
     },
     {
         "id":124,
-        "title": "Carrot-Orange Juic",
+        "title": "Carrot-Orange Juice",
         "calories": "292g",
         "fat":"5g",
         "protein":"21g",
