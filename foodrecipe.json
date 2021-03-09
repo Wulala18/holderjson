@@ -2,7 +2,7 @@
     {
         "id":101,
         "title": "Herbed Chicken Marsala",
-        "calories": "294g",
+        "calories": "294",
         "fat": "11g",
         "protein": "30g",
         "sugar": "7g",
@@ -13,7 +13,7 @@
     {
         "id":102,
         "title": "Lemony Yogurt Pound Cake",
-        "calories": "254g",
+        "calories": "254",
         "fat": "8g",
         "protein": "6g",
         "sugar": "20g",
@@ -24,7 +24,7 @@
     {
         "id":103,
         "title": "Salmon with Kale and Apple Salad",
-        "calories": "620g",
+        "calories": "620",
         "fat": "36g",
         "protein": "39g",
         "sugar": "2g",
@@ -35,7 +35,7 @@
     {
         "id":104,
         "title": "Chicken and Broccoli Stir-Fry",
-        "calories": "431g",
+        "calories": "431",
         "fat": "16g",
         "protein": "32g",
         "sugar": "8g",
@@ -46,7 +46,7 @@
     {
         "id":105,
         "title": "Healthy Cauliflower Rice",
-        "calories": "140g",
+        "calories": "140",
         "fat": "11g",
         "protein": "3g",
         "sugar": "4g",
@@ -57,7 +57,7 @@
     {
         "id":106,
         "title": "Healthified Broccoli Cheddar Soup",
-        "calories": "140g",
+        "calories": "140",
         "fat": "11g",
         "protein": "3g",
         "sugar": "4g",
@@ -68,7 +68,7 @@
     {
         "id":107,
         "title": "Chia Seed Pudding",
-        "calories": "201g",
+        "calories": "201",
         "fat":"8g",
         "protein":"8g",
         "sugar":"16g",
@@ -79,7 +79,7 @@
     {
         "id":108,
         "title": "Spaghetti Squash and Meatballs",
-        "calories": "101g",
+        "calories": "101",
         "fat": "8g",
         "protein": "8g",
         "sugar": "8g",
@@ -90,7 +90,7 @@
     {
         "id":109,
         "title": "Roasted Cauliflower and Broccoli",
-        "calories": "80g",
+        "calories": "80",
         "fat": "4g",
         "protein": "5g",
         "sugar": "4g",
@@ -101,7 +101,7 @@
     {
         "id":110,
         "title": "Noodle Soup",
-        "calories": "50g",
+        "calories": "50",
         "fat": "4g",
         "protein": "5g",
         "sugar": "4g",
@@ -112,7 +112,7 @@
     {
         "id":111,
         "title": "Vegetable Noodle Soup",
-        "calories": "50g",
+        "calories": "50",
         "fat": "4g",
         "protein": "5g",
         "sugar": "4g",
@@ -123,7 +123,7 @@
     {
         "id":112,
         "title": "Garlic-Ginger Chicken Thighs",
-        "calories": "346g",
+        "calories": "346",
         "fat": "23.5g",
         "protein": "27g",
         "sugar": "0g",
@@ -134,7 +134,7 @@
     {
         "id":113,
         "title": "Lemon-Garlic Shrimp and Grits",
-        "calories": "367g",
+        "calories": "367",
         "fat": "12g",
         "protein": "34g",
         "sugar": "0g",
@@ -145,7 +145,7 @@
     {
         "id":114,
         "title": "Sheet Pan Chicken Fajitas",
-        "calories": "470g",
+        "calories": "470",
         "fat": "17g",
         "protein": "44g",
         "sugar": "6g",
@@ -156,7 +156,7 @@
     {
         "id":115,
         "title": "Thai Curry Veggie Noodles with Chicken",
-        "calories": "470g",
+        "calories": "470",
         "fat":"17g",
         "protein":"44g",
         "sugar":"6g",
@@ -167,7 +167,7 @@
     {
         "id":116,
         "title": "Middle Eastern Chicken Burgers",
-        "calories": "435g",
+        "calories": "435",
         "fat":"7g",
         "protein":"32g",
         "sugar":"6g",
@@ -178,7 +178,7 @@
     {
         "id":117,
         "title": "Ribbony Shrimp and Pasta Scampi",
-        "calories": "368g",
+        "calories": "368",
         "fat":"9g",
         "protein":"26g",
         "sugar":"6g",
@@ -189,7 +189,7 @@
     {
         "id":118,
         "title": "Tomato-Vegetable Juice",
-        "calories": "46g",
+        "calories": "46",
          "fat":"1g",
         "protein":"1g",
         "sugar":"7g",
@@ -200,7 +200,7 @@
     {
         "id":119,
         "title": "Avocado smoothie",
-        "calories": "435g",
+        "calories": "435",
         "fat":"7g",
         "protein":"32g",
         "sugar":"6g",
@@ -211,7 +211,7 @@
     {
         "id":120,
         "title": "Green Smoothie",
-        "calories": "213g",
+        "calories": "213",
         "fat":"2.5g",
         "protein":"3.5g",
         "sugar":"29g",
@@ -222,7 +222,7 @@
     {
         "id":121,
         "title": "Bacon and Kimchi Noodle Stir-Fry",
-        "calories": "430g",
+        "calories": "430",
         "fat":"17g",
         "protein":"17g",
         "sugar":"7g",
@@ -233,7 +233,7 @@
     {
         "id":122,
         "title": "Butternut Squash and Gorgonzola Pizza",
-        "calories": "390g",
+        "calories": "390",
         "fat":"19g",
         "protein":"14g",
         "sugar":"3g",
@@ -244,7 +244,7 @@
     {
         "id":123,
         "title": "Ham, Apple and Cheese Quesadilla",
-        "calories": "292g",
+        "calories": "292",
         "fat":"5g",
         "protein":"21g",
         "sugar":"9g",
@@ -255,7 +255,7 @@
     {
         "id":124,
         "title": "Carrot-Orange Juice",
-        "calories": "292g",
+        "calories": "292",
         "fat":"5g",
         "protein":"21g",
         "sugar":"9g",
@@ -266,7 +266,7 @@
     {
         "id":125,
         "title": "Banana-Cocoa Soy Smoothie",
-        "calories": "342g",
+        "calories": "342",
         "fat":"8.1g",
         "protein":"15.7g",
          "sugar":"37g",
@@ -277,7 +277,7 @@
     {
         "id":126,
         "title": "Pineapple Green Smoothie",
-        "calories": "297g",
+        "calories": "297",
         "fat":"0.6g",
         "protein":"12.8g",
         "sugar":"29g",
@@ -288,7 +288,7 @@
     {
         "id":127,
         "title": "Poached Ginger Chicken",
-        "calories": "432g",
+        "calories": "432",
         "fat":"23g",
         "protein":"47g",
         "sugar":"2g",
@@ -299,7 +299,7 @@
     {
         "id":128,
         "title": "Egg-and-Kimchi Rice Bowls",
-        "calories": "560g",
+        "calories": "560",
         "fat":"19",
         "protein":"20g",
         "sugar":"1g",
@@ -310,7 +310,7 @@
     {
         "id":129,
         "title": "Garden Egg Salad",
-        "calories": "266g",
+        "calories": "266",
         "fat":"17g",
         "protein":"12.8g",
         "sugar":"3g",
@@ -321,12 +321,23 @@
     {
         "id":130,
         "title": "Asian Chicken Burgers",
-        "calories": "360g",
+        "calories": "360",
         "fat": "14g",
         "protein": "24g",
         "sugar": "3g",
         "ingredients": "Nonstick cooking spray, 1 small carrot, 1 small red onion, halved, 1 pound ground chicken, 1/4 cup panko (Japanese breadcrumbs), 1/4 cup hoisin sauce, 1 tablespoon grated peeled ginger, 4 teaspoons low-sodium soy sauce, 3 teaspoons hot Asian chili sauce, such as sambal oelek, 8 ounces white mushrooms, thinly sliced, 2 teaspoons toasted sesame oil, Juice of 1 lime, 4 whole-wheat sesame hamburger buns",
         "instructions": "Preheat the oven to 375 degrees F. Mist a baking sheet with cooking spray. Grate the carrot and 1/2 onion into a large bowl. Add the chicken, panko, 2 tablespoons hoisin sauce, the ginger, 3 teaspoons soy sauce and 1 teaspoon sambal oelek and mix until combined. Shape the chicken mixture into 4 patties and place on the prepared baking sheet. Bake until cooked through, about 20 minutes. Meanwhile, thinly slice the remaining 1/2 onion. Toss with the mushrooms, sesame oil, lime juice and the remaining 1 teaspoon soy sauce in a bowl. Mix the remaining 2 tablespoons hoisin sauce and 2 teaspoons sambal oelek with 1 tablespoon water in another bowl. Warm the hamburger buns in the oven. Serve the burgers on the buns with a drizzle of the hoisin-sambal sauce and some of the mushroom mixture.",
         "images":"https://drive.google.com/uc?export=view&id=1DML6CKGNJb4_wTq3exV41EDO-p6NHCYV"
+    },
+    {
+        "id":131,
+        "title": "Carrot Soup",
+        "calories": "176",
+        "fat": "8.3g",
+        "protein": "6.8g",
+        "sugar": "9.2g",
+        "ingredients": "1 tablespoon butter, 1 tablespoon extra-virgin olive oil, 1 medium onion, chopped, 1 stalk celery, chopped, 2 cloves garlic, chopped, 1 teaspoon chopped fresh thyme or parsley, 5 cups chopped carrots, 2 cups water, 4 cups reduced-sodium chicken broth, "no-chicken" broth (see Note) or vegetable broth, ½ teaspoon salt",
+        "instructions": "Heat butter and oil in a Dutch oven over medium heat until the butter melts. Add onion and celery; cook, stirring occasionally, until softened, 4 to 6 minutes. Add garlic and thyme (or parsley); cook, stirring, until fragrant, about 10 seconds. After that, Stir in carrots. Add water and broth; bring to a lively simmer over high heat. Reduce heat to maintain a lively simmer and cook until very tender, about 25 minutes. Last, Puree the soup in batches in a blender until smooth. (Use caution when pureeing hot liquids.) Stir in half-and-half (if using), salt and pepper.",
+        "images":"https://drive.google.com/uc?export=view&id=1fph_PtFElj9qOl2GmULcMJGbiSj6WDim"
     }
 ]
