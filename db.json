@@ -4,7 +4,7 @@
         "id":1,
         "title": "About Weight Loss",
         "description": "If you are reading this, it means that you concern about losing weight.Our application offers you a unique training methods of different workouts. Cardio full body and trouble zone oriented workouts will help you burn more calories in less time. To maintain a stable weight loss, take a closer look at your eating habits and make healthy choices. In this app, you will discover the important info about working out and everything connected with healthy living.",
-        "img":"https://drive.google.com/uc?export=view&id=fb4grjreut5krpi3dn6dgm75q55d83ml"
+        "img":"https://drive.google.com/uc?export=view&id=1SfSLzesgPZHbv1I4LHnDCv_peUk6viD7"
       
     },
     {
@@ -96,9 +96,32 @@
         "title": "Weight loss myths",
         "description": "There is a lot of advice out there about food and weight loss, but lets take a critical approach. The first myth associated with weigth loss is about eating late in the day. The fact is you can eat any time if you eat healthy and count your calories. Overeating during the day is as likely to cause weight gain as in the evening. Another common myth is that carbs are abd for you. But the true is, you need carbs daily and need to be carefully select your carbs and avoid bad ones.",   
         "img":"https://drive.google.com/uc?export=view&id=1--Rwb_kSVzorsBOWOoIdOEehEAAoikRz"
+    },
+    {
+        "id":17,
+        "title": "Super Food",
+        "description": "Superfoods are foods that have a very high nutritional density. This means that they provide a substantial amount of nutrients and very few calories.They contain a high volume of minerals, vitamins, and antioxidants.Antioxidants are natural molecules that occur in certain foods. They help neutralize free radicals in our bodies. Free radicals are natural byproducts of energy production that can wreak havoc on the body.",   
+        "img":"https://drive.google.com/uc?export=view&id=13yvQZ_Vpje39EuA1fz31Wf49z7SknFHm"
+    },
+    {
+        "id":18,
+        "title": "Good breakfast",
+        "description": "Breakfast is often called ‘the most important meal of the day’, and for good reason. As the name suggests, breakfast breaks the overnight fasting period. It replenishes your supply of glucose to boost your energy levels and alertness, while also providing other essential nutrients required for good health. Many studies have shown the health benefits of eating breakfast. It improves your energy levels and ability to concentrate in the short term, and can help with better weight management, reduced risk of type 2 diabetes and heart disease in the long term. Despite the benefits of breakfast for your health and wellbeing, many people often skip it, for a variety of reasons. The good news is there are plenty of ways to make it easier to fit breakfast into your day.",   
+        "img":"https://drive.google.com/uc?export=view&id=1RIHhwTDhXehiysXajMsWWm2bDRtt10Jb"
+    },
+    {
+        "id":19,
+        "title": "Eat lunch",
+        "description": "It’s not easy to squeeze in a lunch break, but it’s often needed for our health and sanity. Lunch is a vital meal for everyone. It provides energy and nutrients to keep the body and brain working through the afternoon. According to experts, lunch provides nourishment to the body and brain and reduces stress and eating lunch provides a break from the activities of the day and gives energy for the rest of the afternoon.",   
+        "img":"https://drive.google.com/uc?export=view&id=1gKkO8jtveHuLxk-WDysHKMa5JluqBaDM"
+    },
+    {
+        "id":20,
+        "title": "Example of good dinner",
+        "description": "Eating a healthy and light dinner will help your body maintain its levels and functions. This will also clear your bowels. Also, dinner is important because after a long day full of activities and exertion, your body needs to fuel up. It is unhealthy if you skip your dinner or consume way too much for dinner. So, the key is to maintain balance. You can always eat a few vegetables along with a smoothie before your sleep.",   
+        "img":"https://drive.google.com/uc?export=view&id=13X6tZd_1oCVE81SMYEnO0Qm9Mu6t75tT"
     }
-
-  
+    
     ]
 
  
